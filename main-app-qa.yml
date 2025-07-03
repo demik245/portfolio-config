@@ -1,0 +1,10 @@
+build:
+  version: "2.0"
+
+main-app:
+  message: "main app qa"
+  contactDetails:
+    name: "Damian Marc - qa Dev"
+    email: "damianmar17@outlook.com"
+  onCallSupport:
+    - 536472378
